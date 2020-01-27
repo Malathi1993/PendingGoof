@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Goofyturtle</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_shopbycategory">Shop by Category</string>
+    <string name="menu_building">Building Blocks</string>
+    <string name="menu_collectibles">Collectibles</string>
+    <string name="menu_drones">Drones</string>
+    <string name="menu_interactive">Interactive</string>
+    <string name="menu_parentcateg">Parent Categ</string>
+    <string name="menu_preschool">Pre-School</string>
+    <string name="menu_Puzzle">PuzzlesGames</string>
+    <string name="menu_Remote">Remote Controlled</string>
+    <string name="menu_Stem">STEM SMART</string>
+    <string name="menu_samplecategory">Sample Category</string>
+
+
+    <string name="title_activity_main">MainActivity</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+    <string name="menu_puzzlesgames" />
+    <string name="menu_remotecontrolled" />
+    <string name="menu_stemsmart" />
+</resources>

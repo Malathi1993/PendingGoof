@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:title="@string/menu_shopbycategory" />
+        <item
+            android:id="@+id/nav_gallery"
+            android:title="@string/menu_building" />
+        <item
+            android:id="@+id/nav_colletibles"
+            android:title="@string/menu_collectibles" />
+        <item
+            android:id="@+id/nav_drones"
+            android:title="@string/menu_drones" />
+        <item
+            android:id="@+id/nav_interactive"
+            android:title="@string/menu_interactive" />
+        <item
+            android:id="@+id/nav_parent"
+            android:title="@string/menu_parentcateg" />
+        <item
+            android:id="@+id/nav_preschool"
+            android:title="@string/menu_preschool" />
+        <item
+            android:id="@+id/nav_puzzles"
+            android:title="@string/menu_puzzlesgames" />
+        <item
+            android:id="@+id/nav_remote"
+            android:title="@string/menu_remotecontrolled" />
+        <item
+            android:id="@+id/nav_stem"
+            android:title="@string/menu_stemsmart" />
+        <item
+            android:id="@+id/nav_sample"
+            android:title="@string/menu_samplecategory" />
+    </group>
+
+
+</menu>
